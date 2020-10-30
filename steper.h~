@@ -1,6 +1,6 @@
-#ifndef _set_dutycycle_INCLUDED_
-#define _set_dutycycle_INCLUDED_
+#ifndef _steper_INCLUDED_
+#define _steper_INCLUDED_
 
- void set_dutycycle (void);   
+ void steper (void);   
 
 #endif

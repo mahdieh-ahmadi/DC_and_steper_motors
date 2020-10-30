@@ -42,6 +42,12 @@
     <Compile Include="set_dutycycle.c">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="steper.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="runsteper.c">
+      <SubType>compile</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(AVRSTUDIO_EXE_PATH)\\vs\\CV.targets" />
 </Project>

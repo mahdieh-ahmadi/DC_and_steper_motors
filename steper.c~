@@ -3,8 +3,8 @@
 #include <delay.h>
 
  void steper (int speed){
-
-   //OCR2 = speed;  
-   TCNT2 = speed;
-   
+ PORTB.1 = 1;
+ delay_ms(1000);
+ PORTB.1=0;
+   OCR2 = speed;
  }

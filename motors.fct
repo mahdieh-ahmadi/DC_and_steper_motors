@@ -1,3 +1,4 @@
-main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"motors.c" LINE:76
-set_dutycycle DSTACK_USAGE:6 DSTACK_LEVEL:6 FILE:"set_dutycycle.c" LINE:4
-timer2_ovf_isr DSTACK_USAGE:1 DSTACK_LEVEL:7 FILE:"motors.c" LINE:61
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"motors.c" LINE:86
+set_dutycycle DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"set_dutycycle.c" LINE:4
+timer2_ovf_isr DSTACK_USAGE:12 DSTACK_LEVEL:20 FILE:"motors.c" LINE:68
+steper DSTACK_USAGE:2 DSTACK_LEVEL:22 FILE:"steper.c" LINE:5
